@@ -10,10 +10,6 @@ It organizes raw database scripts, relational architectures, system administrati
 
 
 
-\---
-
-
-
 \## 📖 Library Architecture \& Search Directory
 
 
